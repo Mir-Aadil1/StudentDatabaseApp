@@ -30,3 +30,4 @@ bin/
 *.iml
 .run/
 **/.DS_Store
+.idea/
